@@ -1,6 +1,6 @@
 import React , {useState, useEffect, Suspense} from 'react';
 import Loading from '../components/Loading'
-import { openSource } from "../portfolio";
+import { footer } from "../portfolio";
 import {get} from 'axios';
 import GithubProfileCard from 'components/GithubProfileCard';
 
@@ -17,7 +17,7 @@ const GithubProfile = () => {
     }, [quary]);
     return ( 
         <Suspense fallback={<Loading />}>
-           <GithubProfileCard prof={prof} data={openSource}/>
+           <GithubProfileCard prof={prof} data={footer}/>
         </Suspense>
      );
 }

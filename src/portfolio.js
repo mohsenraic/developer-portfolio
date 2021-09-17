@@ -1,8 +1,10 @@
 import emoji from "react-easy-emoji";
 
-import googlelogo from "./assets/img/icons/common/google.svg";
-import github from "./assets/img/icons/common/github.svg";
-import airbnb from "./assets/img/icons/common/airbnbLogo.png";
+import sedonalogo from "./assets/img/icons/common/sedonalogo.png";
+import iqeralogo from "./assets/img/icons/common/iquralogo.png";
+import eleclerclogo from "./assets/img/icons/common/eleclerclogo.svg";
+import sncflogo from "./assets/img/icons/common/sncflogo.svg";
+import saurlogo from "./assets/img/icons/common/saurlogo.svg";
 
 export const greetings = {
 	name: "Mohsen Raeisi",
@@ -133,7 +135,7 @@ export const experience = [
 	{
 		role: "Développeur React-Native & Vue.js (En prestation via CGI)",
 		company: "SAUR",
-		companylogo: googlelogo,
+		companylogo: saurlogo,
 		date: "Novembre 2020 – à ce jour",
 		desc: "Guyancourt, France",
 		descBullets: [
@@ -147,7 +149,7 @@ export const experience = [
 	{
 		role: "Développeur Full-stack React-Native (En prestation via CGI)",
 		company: "Fret SNCF",
-		companylogo: googlelogo,
+		companylogo: sncflogo,
 		date: "Novembre 2019 – Octobre 2020",
 		desc: "Clichy, France",
 		descBullets: [
@@ -162,7 +164,7 @@ export const experience = [
 	{
 		role: "Développeur Full-stack web (En prestation via CGI)",
 		company: "E.leclerc",
-		companylogo: googlelogo,
+		companylogo: elecerclogo,
 		date: "Janvier 2019 – Novembre 2019",
 		desc: "Ivry-sur-Seine, France",
 		descBullets: [
@@ -176,8 +178,8 @@ export const experience = [
 	},
 	{
 		role: "Alternance : développeur fullstack mobile",
-		company: "iQuera (DSOgroup)",
-		companylogo: github,
+		company: "iQera (DSOgroup)",
+		companylogo: iqeralogo,
 		date: "Septembre 2015 – Janvier 2019",
 		desc: "Paris, France",
 		descBullets: [
@@ -190,7 +192,7 @@ export const experience = [
 	{
 		role: "Stage : Développeur Android",
 		company: "Sedona",
-		companylogo: airbnb,
+		companylogo: sedonalogo,
 		date: "Avril 2015 – Août 2015",
 		desc: "Paris, France",
 		descBullets: [

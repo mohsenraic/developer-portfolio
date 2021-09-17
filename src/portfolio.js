@@ -5,25 +5,22 @@ import github from "./assets/img/icons/common/github.svg";
 import airbnb from "./assets/img/icons/common/airbnbLogo.png";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
+	name: "Mohsen Raeisi",
 	title: "Hi all, I'm Hanzla",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-	resumeLink: "https://cv.hanzla.ga",
+		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
+	resumeLink: "https://github.com/mohsenraic/developer-portfolio/raw/master/cvmohsen.pdf",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "mohsenraic",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	github: "https://github.com/mohsenraic",
+	linkedin: "https://www.linkedin.com/in/mohsen-raeisi-55097813b/",
 };
 
 export const skillsSection = {
@@ -60,6 +57,10 @@ export const skillsSection = {
 			fontAwesomeClassname: "logos:javascript",
 		},
 		{
+			skillName: "Java",
+			fontAwesomeClassname: "logos:java",
+		},
+		{
 			skillName: "TypeScript",
 			fontAwesomeClassname: "logos:typescript-icon",
 		},
@@ -70,14 +71,6 @@ export const skillsSection = {
 		{
 			skillName: "nodejs",
 			fontAwesomeClassname: "logos:nodejs-icon",
-		},
-		{
-			skillName: "flutter",
-			fontAwesomeClassname: "logos:flutter",
-		},
-		{
-			skillName: "swift",
-			fontAwesomeClassname: "vscode-icons:file-type-swift",
 		},
 		{
 			skillName: "npm",
@@ -92,24 +85,8 @@ export const skillsSection = {
 			fontAwesomeClassname: "vscode-icons:file-type-mongo",
 		},
 		{
-			skillName: "aws",
-			fontAwesomeClassname: "logos:aws",
-		},
-		{
-			skillName: "firebase",
-			fontAwesomeClassname: "logos:firebase",
-		},
-		{
-			skillName: "python",
-			fontAwesomeClassname: "logos:python",
-		},
-		{
 			skillName: "git",
 			fontAwesomeClassname: "logos:git-icon",
-		},
-		{
-			skillName: "docker",
-			fontAwesomeClassname: "logos:docker-icon",
 		},
 	],
 };
@@ -125,38 +102,29 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "60",
+		progressPercentage: "80",
 	},
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "ESGI",
+		subHeader: "Master en informatique : Mobilité et objets connectés",
+		duration: "September 2015 - April 2017",
+		desc: "",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"",
+			"",
 		],
 	},
 	{
-		schoolName: "Harvard",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "Université Paris 8",
+		subHeader: "Licence Pro - développement logiciel embarqué",
+		duration: "September 2012 - April 2015",
+		desc: "",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		],
-	},
-	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
-		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-		descBullets: [
-			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
+			"",
+			"",
 		],
 	},
 ];

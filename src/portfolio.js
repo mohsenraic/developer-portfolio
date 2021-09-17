@@ -184,7 +184,9 @@ export const experience = [
 			"Réalisation d’une application mobile hybride en interne (front-end et back-end) en utilisant le Framework IONIC et Spring boot",
 			"Livraisons de différentes versions de l’application sur App Store et Google Play",
 			"Maintenance de l'application"
-		],
+		]
+	},
+		
 	{
 		role: "Stage : Développeur Android",
 		company: "Sedona",

@@ -9,7 +9,7 @@ import {
 
 import SocialLinks from "../components/SocialLinks";
 
-const GithubProfileCard = ({prof},data) => {
+const GithubProfileCard = ({prof,data}) => {
     return ( 
             <Card className="section-lg bg-gradient-info shadow-lg border-0">
                 <Container className="">

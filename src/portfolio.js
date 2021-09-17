@@ -88,6 +88,10 @@ export const skillsSection = {
 			skillName: "git",
 			fontAwesomeClassname: "logos:git-icon",
 		},
+		{
+			skillName: "Android",
+			fontAwesomeClassname: "logos:android",
+		},
 	],
 };
 
@@ -101,7 +105,7 @@ export const SkillBars = [
 		progressPercentage: "70",
 	},
 	{
-		Stack: "Programming",
+		Stack: "Algorithme",
 		progressPercentage: "80",
 	},
 ];
@@ -127,29 +131,72 @@ export const educationInfo = [
 
 export const experience = [
 	{
-		role: "Software Engineer",
-		company: "Google",
+		role: "Développeur React-Native & Vue.js (En prestation via CGI)",
+		company: "SAUR",
 		companylogo: googlelogo,
-		date: "June 2018 – Present",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		date: "Novembre 2020 – à ce jour",
+		desc: "Guyancourt, France",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Front : Développement et maintenance d’une application mobile/web de gestion logistique",
+			"Participation à des réunions Demo & retro et planification du sprint",
+			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
+			"Environnement Technique : React Native,Vue.js"
+			
 		],
 	},
 	{
-		role: "Front-End Developer",
-		company: "Github",
-		companylogo: github,
-		date: "May 2017 – May 2018",
-		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		role: "Développeur Full-stack React-Native (En prestation via CGI)",
+		company: "Fret SNCF",
+		companylogo: googlelogo,
+		date: "Novembre 2019 – Octobre 2020",
+		desc: "Clichy, France",
+		descBullets: [
+			"Front : Développement et maintenance d’une application tablette d’aide à la conduite.",
+			"Back : Développement et maintenance des web services REST en utilisant Spring.",
+			"Participation à des réunions Demo & retro et planification du sprint",
+			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
+			"Environnement Technique : JAVA/J2EE(Spring),React Native,PostgreSQL"
+			
+		],
 	},
 	{
-		role: "Software Engineer Intern",
-		company: "Airbnb",
+		role: "Développeur Full-stack web (En prestation via CGI)",
+		company: "E.leclerc",
+		companylogo: googlelogo,
+		date: "Janvier 2019 – Novembre 2019",
+		desc: "Ivry-sur-Seine, France",
+		descBullets: [
+			"Front : Développement et maintenance d'un outil web de gestion de contrats sous EmberJs",
+			"Back : Développement et maintenance des web services REST en utilisant Spring.",
+			"Participation à des réunions demo & retro et planification du sprint",
+			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
+			"Environnement Technique : JAVA/J2EE(Spring),EmberJs,Git,PostgreSQL"
+			
+		],
+	},
+	{
+		role: "Alternance : développeur fullstack mobile",
+		company: "iQuera (DSOgroup)",
+		companylogo: github,
+		date: "Septembre 2015 – Janvier 2019",
+		desc: "Paris, France",
+		descBullets: [
+			"Réalisation d’une application mobile hybride en interne (front-end et back-end) en utilisant le Framework IONIC et Spring boot",
+			"Livraisons de différentes versions de l’application sur App Store et Google Play",
+			"Maintenance de l'application"
+		],
+	{
+		role: "Stage : Développeur Android",
+		company: "Sedona",
 		companylogo: airbnb,
-		date: "Jan 2015 – Sep 2015",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		date: "Avril 2015 – Août 2015",
+		desc: "Paris, France",
+		descBullets: [
+			"Maintenance de l'application Android Euronews",
+			"Maintenance de l'application Relais & Châteaux",
+			"Création d'une application de quizz sur Tablette Android",
+			"Développements sur une application de streaming musical Android"
+		],
 	},
 ];
 

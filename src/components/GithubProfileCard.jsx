@@ -20,10 +20,10 @@ const GithubProfileCard = ({prof},data) => {
                     </Col>
                     <Col lg="8" className="order-lg-1">
                       <h2 className="text-white">
-                          {data.footer.title}
+                          {data.title}
                       </h2>
                       <p className="lead text-white mt-3">
-                          {data.footer.desc}
+                          {data.desc}
                       </p>
                       <div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">
                         <i className="ni ni-pin-3 text-info mr-2" />

@@ -24,13 +24,13 @@ const Experience = () => {
                         <h4 className="display-3 text-info">Experience</h4>
                     </div>
                 </div>
-                <Row className="row-grid align-items-center">
+                <div>
                     {
                         experience.map((data, i) => {
                             return <ExperienceCard key={i} data={data} />
                         })
                     }
-                </Row>
+                </div>
               </Fade>
             </Container>
           </section>

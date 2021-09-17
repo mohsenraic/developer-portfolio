@@ -1,6 +1,6 @@
 import React , {useState, useEffect, Suspense} from 'react';
 import Loading from '../components/Loading'
-import { footer } from "../portfolio";
+import { footer,openSource } from "../portfolio";
 import {get} from 'axios';
 import GithubProfileCard from 'components/GithubProfileCard';
 

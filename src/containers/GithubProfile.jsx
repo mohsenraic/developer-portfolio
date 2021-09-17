@@ -17,7 +17,7 @@ const GithubProfile = () => {
     }, [quary]);
     return ( 
         <Suspense fallback={<Loading />}>
-           <GithubProfileCard prof={prof}/>
+           <GithubProfileCard prof={prof} data={openSource}/>
         </Suspense>
      );
 }

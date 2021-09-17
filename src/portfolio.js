@@ -6,9 +6,9 @@ import airbnb from "./assets/img/icons/common/airbnbLogo.png";
 
 export const greetings = {
 	name: "Mohsen Raeisi",
-	title: "Hi all, I'm Hanzla",
+	title: "Je suis Mohsen Raeisi",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
+		"Passionné par le développement digital, je souhaite vous aider à concrétiser vos projets numériques tout en développant mes compétences en programmation. Je suis impatient de découvrir vos projets, que ce soit pour créer une application mobile React Native et/ou un site web 🙂\n J\'ai déjà eu  l\'opportunité de travailler pour plusieurs entreprises comme iQERA, E.Leclerc, SNCF et SAUR en tant que developpeur fullstack mobile et web.J\'ai développé mes compétences afin d\'être Fullstack sur des projets mobile ou web :\n📱 Côté mobile, je développe des applications mobiles avec le framework React Native, qui permet de coder simultanément sur IOS et sur Android, ce qui vous permet de gagner beaucoup de temps et donc d\'argent lors du développement.\n🖥 Côté web, je développe des sites web complets à partir des langages HTML5/CSS3/Javascript/ReactJS/Vue.js pour le front-end. Je peux également concevoir vos sites via le CMS Wordpress.\n📡 Côté serveur, je développe le back-end avec le langage JAVA et le framework Spring ou en utilisant NodeJS et Express. Je maîtrise MySQL pour la gestion des bases de données.\nJ\'ai hâte de découvrir vos projets quel que soit votre secteur d\'activité, afin que l\'on définisse ensemble vos besoins.\nAu plaisir d\'échanger avec vous sur vos projets respectifs, je vous dis à très vite 😉",
 	resumeLink: "https://github.com/mohsenraic/developer-portfolio/raw/master/cvmohsen.pdf",
 };
 
@@ -24,7 +24,7 @@ export const socialLinks = {
 };
 
 export const skillsSection = {
-	title: "What I do",
+	title: "SAVOIR FAIRE",
 	subTitle:
 		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
 	skills: [
@@ -113,8 +113,6 @@ export const educationInfo = [
 		duration: "September 2015 - April 2017",
 		desc: "",
 		descBullets: [
-			"",
-			"",
 		],
 	},
 	{
@@ -123,8 +121,6 @@ export const educationInfo = [
 		duration: "September 2012 - April 2015",
 		desc: "",
 		descBullets: [
-			"",
-			"",
 		],
 	},
 ];

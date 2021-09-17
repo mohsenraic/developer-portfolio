@@ -164,7 +164,7 @@ export const experience = [
 	{
 		role: "Développeur Full-stack web (En prestation via CGI)",
 		company: "E.leclerc",
-		companylogo: elecerclogo,
+		companylogo: eleclerclogo,
 		date: "Janvier 2019 – Novembre 2019",
 		desc: "Ivry-sur-Seine, France",
 		descBullets: [

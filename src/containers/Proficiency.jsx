@@ -1,5 +1,5 @@
 import React from 'react';
-import build from "../assets/lottie/build";
+import devinair from "../assets/lottie/devinair";
 
 import { SkillBars } from "../portfolio";
 import {
@@ -19,7 +19,7 @@ const Proficiency = () => {
            <Fade bottom duration={1000} distance="40px">
             <Row>
                     <Col lg="6">
-                        <h1 className="h1">Proficiency</h1>
+                        <h1 className="h1">Compétence</h1>
                         {
                             SkillBars.map(skill => {
                                 return <div className="progress-info" key={skill.Stack}>
@@ -35,7 +35,7 @@ const Proficiency = () => {
                         }
                     </Col>
                     <Col lg="6">
-                        <GreetingLottie animationData={build}/>
+                        <GreetingLottie animationData={devinair}/>
                     </Col>
                 </Row>
            </Fade>

@@ -14,7 +14,7 @@ const ProjectsCard = ({ data }) => {
 					<CardBody>
 						<div className="d-flex px-3">
 							<div className="pl-4">
-								 <img ref={imgRef} className="bg-white mb-3 img-center img-fluid shadow-lg " src={data.img} style={{ width: "100px" }} alt=""/>
+								 <img ref={imgRef} className="bg-white mb-3 rounded-circle img-center img-fluid shadow-lg " src={data.img} style={{ width: "100px" }} alt=""/>
 
 								<h3>{data.name}</h3>
 								<p className="description mt-3">{data.desc}</p>

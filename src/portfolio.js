@@ -206,20 +206,29 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		name: "Text Detector",
+		desc: "Cette application android vous permet de convertir des images en texte sans aucune limite dans toutes les langues.",
+		link: "https://play.google.com/store/apps/details?id=mohsenraeisi.imagetotext",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		name: "NewsMe",
+		desc: "Retrouvez des sources d'information telles que Le monde , BFM , 01-NET , 20 minutes , ... et soyez sûr de ne rien manquer des infos qui comptent pour vous.",
+		link: "https://play.google.com/store/apps/details?id=com.esgi.newsme.newsme",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
-		link: "https://example.com",
+		name: "Bird Swipe",
+		desc: "un jeu de réflexion conçu pour améliorer la durée d'attention et la concentration.",
+		link: "https://play.google.com/store/apps/details?id=com.birdswipe.mohsenraeisi.game",
+	},
+	{
+		name: "Horaires NOW",
+		desc: "Consultez les horaires en temps réel des prochains passages des lignes de RATP",
+		link: "https://play.google.com/store/apps/details?id=com.ratpnow.mohsenraeisi.ratpnow",
+	},
+	{
+		name: "Daily Calories",
+		desc: "Une application  pour trouver simplement des informations nutritionnelles sur les aliments que vous mangez et suivre facilement vos repas, vos exercices et vos statistiques.",
+		link: "https://play.google.com/store/apps/details?id=com.dailycalories.activities.dailycalorie",
 	},
 ];
 

@@ -99,22 +99,34 @@ export const skillsSection = {
 
 export const SkillBars = [
 	{
-		Stack: "Frontend/Design", //Insert stack or technology you have experience in
+		Stack: "React-Native", //Insert stack or technology you have experience in
 		progressPercentage: "90", //Insert relative proficiency in percentage
 	},
 	{
-		Stack: "Backend",
+		Stack: "Vue.js/React.js", //Insert stack or technology you have experience in
+		progressPercentage: "90", //Insert relative proficiency in percentage
+	},
+	{
+		Stack: "Android natif", //Insert stack or technology you have experience in
+		progressPercentage: "70", //Insert relative proficiency in percentage
+	},
+	{
+		Stack: "JAVA/Spring",
 		progressPercentage: "70",
 	},
 	{
-		Stack: "Algorithme",
-		progressPercentage: "80",
+		Stack: "NodeJs",
+		progressPercentage: "50",
+	},
+	{
+		Stack: "iOS",
+		progressPercentage: "30",
 	},
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "ESGI",
+		schoolName: "ESGI (École Supérieure de Génie Informatique)",
 		subHeader: "Master en informatique : Mobilité et objets connectés",
 		duration: "September 2015 - April 2017",
 		desc: "",
@@ -123,7 +135,7 @@ export const educationInfo = [
 	},
 	{
 		schoolName: "Université Paris 8",
-		subHeader: "Licence Pro - développement logiciel embarqué",
+		subHeader: "Licence Professionelle - développement logiciel embarqué",
 		duration: "September 2012 - April 2015",
 		desc: "",
 		descBullets: [
@@ -206,7 +218,7 @@ export const experience = [
 
 export const projects = [
 	{
-		img: "https://play-lh.googleusercontent.com/F69YVXREqvsxH47gFNkmh7Ahtp3KAeeI26xlI08yZ76ZskUDccabPoUhlU6Ouwg-s1I=s180-rw",
+		img: "https://play-lh.googleusercontent.com/RpMu6gUTjkKKGq0YEh_eZ7CB_mg-ZmJF3INgu5eseyywth7XwsjRwKdxZTuKRAusHA=s180-rw",
 		name: "Text Detector",
 		desc: "Cette application android vous permet de convertir des images en texte sans aucune limite dans toutes les langues.",
 		link: "https://play.google.com/store/apps/details?id=mohsenraeisi.imagetotext",

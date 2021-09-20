@@ -206,26 +206,31 @@ export const experience = [
 
 export const projects = [
 	{
+		img: "https://play-lh.googleusercontent.com/F69YVXREqvsxH47gFNkmh7Ahtp3KAeeI26xlI08yZ76ZskUDccabPoUhlU6Ouwg-s1I=s180-rw",
 		name: "Text Detector",
 		desc: "Cette application android vous permet de convertir des images en texte sans aucune limite dans toutes les langues.",
 		link: "https://play.google.com/store/apps/details?id=mohsenraeisi.imagetotext",
 	},
 	{
+		img: "https://play-lh.googleusercontent.com/E3CoEXPXo7DWYTYyTIJiSAkPwEncu-7lu4QG4FwhE6HxII9U1KP8HdsGlABVh_jmog=s180-rw",
 		name: "NewsMe",
 		desc: "Retrouvez des sources d'information telles que Le monde , BFM , 01-NET , 20 minutes , ... et soyez sûr de ne rien manquer des infos qui comptent pour vous.",
 		link: "https://play.google.com/store/apps/details?id=com.esgi.newsme.newsme",
 	},
 	{
+		img: "https://play-lh.googleusercontent.com/RvgLiRdO0jDEnV82xNFHYjfySydK0ub5xZNdOlWHeNtOAXxBN1RRyZgY3oYUixvF5wL-=s180-rw",
 		name: "Bird Swipe",
-		desc: "un jeu de réflexion conçu pour améliorer la durée d'attention et la concentration.",
+		desc: "Un jeu de réflexion conçu pour améliorer la durée d'attention et la concentration.",
 		link: "https://play.google.com/store/apps/details?id=com.birdswipe.mohsenraeisi.game",
 	},
 	{
+		img:"https://play-lh.googleusercontent.com/AD1WKYUed6c8Bpa9_gs3KwgwlQhCgicFfXBkRCHHMjWe5crSYN_7jOwvSeu7QDTQjQ=s180-rw",
 		name: "Horaires NOW",
 		desc: "Consultez les horaires en temps réel des prochains passages des lignes de RATP",
 		link: "https://play.google.com/store/apps/details?id=com.ratpnow.mohsenraeisi.ratpnow",
 	},
 	{
+	        img: "https://play-lh.googleusercontent.com/F69YVXREqvsxH47gFNkmh7Ahtp3KAeeI26xlI08yZ76ZskUDccabPoUhlU6Ouwg-s1I=s180-rw",
 		name: "Daily Calories",
 		desc: "Une application  pour trouver simplement des informations nutritionnelles sur les aliments que vous mangez et suivre facilement vos repas, vos exercices et vos statistiques.",
 		link: "https://play.google.com/store/apps/details?id=com.dailycalories.activities.dailycalorie",

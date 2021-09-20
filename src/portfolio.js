@@ -2,9 +2,9 @@ import emoji from "react-easy-emoji";
 
 import sedonalogo from "./assets/img/icons/common/sedonalogo.png";
 import iqeralogo from "./assets/img/icons/common/iquralogo.png";
-import eleclerclogo from "./assets/img/icons/common/eleclerclogo.svg";
-import sncflogo from "./assets/img/icons/common/sncflogo.svg";
-import saurlogo from "./assets/img/icons/common/saurlogo.svg";
+import eleclerclogo from "./assets/img/icons/common/eleclerclogo.png";
+import sncflogo from "./assets/img/icons/common/sncflogo.png";
+import saurlogo from "./assets/img/icons/common/saurlogo.png";
 
 export const greetings = {
 	name: "Mohsen Raeisi",

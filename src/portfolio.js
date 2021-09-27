@@ -10,7 +10,7 @@ export const greetings = {
 	name: "Mohsen Raeisi",
 	title: "Je suis Mohsen Raeisi",
 	description:
-		"Passionné par le développement digital, je souhaite vous aider à concrétiser vos projets numériques tout en développant mes compétences en programmation. Je suis impatient de découvrir vos projets, que ce soit pour créer une application mobile React Native et/ou un site web 🙂\n",
+		"Développeur mobile (React-Native/Android) et web(React.js/Vue.js) fullstack(Java/Spring)",
 	resumeLink: "https://github.com/mohsenraic/developer-portfolio/raw/master/cvmohsen.pdf",
 };
 
@@ -27,7 +27,7 @@ export const socialLinks = {
 };
 
 export const skillsSection = {
-	title: "SAVOIR FAIRE",
+	title: "À propos de moi",
 	subTitle:
 		"J\'ai déjà eu  l\'opportunité de travailler pour plusieurs entreprises comme iQERA, E.Leclerc, SNCF et SAUR en tant que developpeur fullstack mobile et web.J\'ai développé mes compétences afin d\'être Fullstack sur des projets mobile ou web",
 	skills: [

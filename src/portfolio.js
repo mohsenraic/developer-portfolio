@@ -23,6 +23,7 @@ export const contact = {};
 export const socialLinks = {
 	github: "https://github.com/mohsenraic",
 	linkedin: "https://www.linkedin.com/in/mohsen-raeisi-55097813b/",
+	mail:"mailto:mohsenraic@hotmail.fr"
 };
 
 export const skillsSection = {

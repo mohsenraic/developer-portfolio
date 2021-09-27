@@ -3,6 +3,7 @@ import React, {Fragment} from 'react';
 import { Fade } from 'react-reveal';
 import DisplayLottie from '../components/DisplayLottie'
 import webdev from '../assets/lottie/webdev.json';
+import profileLogo from "../assets/img/me.jpg";
 
 import {
     Container,
@@ -18,6 +19,8 @@ const Skills = () => {
         <Fade left duration={1000} distance="40px">
             <Container className="text-center my-5 section section-lg">
             <h1 className="h1">{skillsSection.title}</h1>
+            <img src={profileLogo} style={{width: "200px"}} alt="" className="rounded-circle img-center img-fluid shadow shadow-lg--hover mb-4"/>
+
             <p className="lead">{skillsSection.subTitle}</p>
             <Row>
                 <Col lg="6">

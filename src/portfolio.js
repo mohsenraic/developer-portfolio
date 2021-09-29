@@ -5,7 +5,7 @@ import iqeralogo from "./assets/img/icons/common/iquralogo.png";
 import eleclerclogo from "./assets/img/icons/common/eleclerclogo.png";
 import sncflogo from "./assets/img/icons/common/sncflogo.png";
 import saurlogo from "./assets/img/icons/common/saurlogo.png";
-import hakimProfile form "./assets/img/persons/hakim.jpeg";
+import hakimProfile form "./assets/img/hakim.jpg";
 export const greetings = {
 	name: "Mohsen Raeisi",
 	title: "Je suis Mohsen Raeisi",

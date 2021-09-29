@@ -10,8 +10,10 @@ const FeedbackCard = ({ data }) => {
 				<CardBody>
 					<div className="d-flex px-3">
 						<div className="pl-4">
-							<h5 className="text-info">{data.name}</h5>
-							<p className="description mt-3">{data.feedback}</p>
+							<h5 className="text-info">Témoignage <a href={data.url}>{data.from}</a></h5>
+							<p className="description mt-3 font-italic"> « {data.feedback} »</p>
+							<h6 >   <img src={data.img} style={{width: "50px"}} alt="" className="rounded-circle img-center img-fluid shadow shadow-lg--hover mb-4"/> {data.name} </h6>
+
 						</div>
 					</div>
 				</CardBody>

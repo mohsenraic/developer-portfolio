@@ -5,12 +5,12 @@ import iqeralogo from "./assets/img/icons/common/iquralogo.png";
 import eleclerclogo from "./assets/img/icons/common/eleclerclogo.png";
 import sncflogo from "./assets/img/icons/common/sncflogo.png";
 import saurlogo from "./assets/img/icons/common/saurlogo.png";
-
+import hakimProfile form "./assets/img/persons/hakim.jpeg";
 export const greetings = {
 	name: "Mohsen Raeisi",
 	title: "Je suis Mohsen Raeisi",
 	description:
-		"Développeur mobile (React-Native/Android) et web(React.js/Vue.js) fullstack(Java/Spring)",
+		"Développeur React Native et Vue.js fullstack ",
 	resumeLink: "https://github.com/mohsenraic/developer-portfolio/raw/master/cvmohsen.pdf",
 };
 
@@ -29,7 +29,7 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "À propos de moi",
 	subTitle:
-		"Passionné par le développement digital, je souhaite vous aider à concrétiser vos projets numériques tout en développant mes compétences en programmation. Je suis impatient de découvrir vos projets, que ce soit pour créer une application mobile React Native et/ou un site web 🙂\n J\'ai déjà eu  l\'opportunité de travailler pour plusieurs entreprises comme iQERA, E.Leclerc, SNCF et SAUR en tant que developpeur fullstack mobile et web.J\'ai développé mes compétences afin d\'être Fullstack sur des projets mobile ou web",
+		"Passionné par le développement digital, je souhaite vous aider à concrétiser vos projets numériques tout en développant mes compétences. Je suis impatient de découvrir vos projets, que ce soit pour créer une application mobile React Native et/ou un site web 🙂\n J\'ai déjà eu  l\'opportunité de travailler pour plusieurs entreprises comme iQERA, E.Leclerc, SNCF et SAUR en tant que developpeur fullstack mobile et web.J\'ai développé mes compétences afin d\'être Fullstack sur des projets mobile ou web.",
 	skills: [
 		emoji(
 			"📱 Côté mobile, je développe des applications mobiles avec le framework React Native, qui permet de coder simultanément sur IOS et sur Android, ce qui vous permet de gagner beaucoup de temps et donc d\'argent lors du développement."
@@ -252,14 +252,12 @@ export const projects = [
 
 export const feedbacks = [
 	{
-		name: "Hassan Mehmood",
+		from:"Linkedin",
+		url:"https://www.linkedin.com/in/mohsen-raeisi-55097813b/",
+		name: "Hakim Benyoucef - Développeur freelance Full Stack",
+		img : hakimProfile,
 		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
-	},
-	{
-		name: "Maheen Altaf",
-		feedback:
-			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
+			"Mohsen est un brillant développeur.J'ai travaillé avec lui sur un grand projet et j'ai pu admirer son talent dans le développement mobile, sa motivation, sa méticulosité et surtout sa curiosité constante, aussi bien sur des points de développement que sur des sujets hors de son périmètre.Il sait très bien chercher et trouver l'information et faire avancer votre projet dans les règles de l'art.Je l'ai vu apprendre un framework depuis le zero et je peux vous dire qu'il a maitrisé à merveille en moins d'un an! Ses capacités d'apprendre très vite et d'autonomie font de lui un vrai \"couteau suisse\".",
 	},
 ];
 

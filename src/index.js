@@ -19,11 +19,11 @@ ReactDOM.render(
 	<>
 		<Navigation />
 		<Greetings />
+		<Feedbacks />
 		<Skills />
 		<Proficiency />
 		<Education />
 		<Experience />
-		<Feedbacks />
 		<Projects />
 		<GithubProfile />
 	</>,

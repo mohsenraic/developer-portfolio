@@ -259,6 +259,24 @@ export const feedbacks = [
 		feedback:
 			"Mohsen est un brillant développeur.J'ai travaillé avec lui sur un grand projet et j'ai pu admirer son talent dans le développement mobile, sa motivation, sa méticulosité et surtout sa curiosité constante, aussi bien sur des points de développement que sur des sujets hors de son périmètre.Il sait très bien chercher et trouver l'information et faire avancer votre projet dans les règles de l'art.Je l'ai vu apprendre un framework depuis le zero et je peux vous dire qu'il a maitrisé à merveille en moins d'un an! Ses capacités d'apprendre très vite et d'autonomie font de lui un vrai \"couteau suisse\".",
 	},
+	{
+		from:"Linkedin",
+		url:"https://www.linkedin.com/in/mohsen-raeisi-55097813b/",
+		name: "Cédric Capo-Chichi - Proxy Product Owner chez SNCF",
+		img : hakimProfile,
+		feedback:
+			"J'ai travaillé une année avec Mohsen sur une application mobile pour Fret SNCF.Le projet était géré en Agile Scrum.J'ai apprécié la qualité de son travail, ses connaissances techniques et sa faculté à trouver des solutions. Par ailleurs, Mohsen a su faire preuve d'intérêt et d'implication en essayant toujours de comprendre la finalité fonctionnelle de ce qui lui était demandé. Et ce, toujours dans le but de rendre le meilleur service possible pour l'utilisateur.Fiable, posé et rassurant, Mohsen a été un élément moteur dans la réussite du projet.Je le reprendrais sans aucune hésitation sur un prochain projet.",
+	},
+	
+
+	{
+		from:"Linkedin",
+		url:"https://www.linkedin.com/in/mohsen-raeisi-55097813b/",
+		name: "Mohand Ferhi - CTO / Responsable Département R&D Groupe chez iQera",
+		img : hakimProfile,
+		feedback:
+			"Mohsen c'est simplement un génie du développement web et mobile.C'est le type de développeurs que je qualifierai de vrai full stack sur les technologies mobiles et Java Web + design.Soucieux du travail bien fait avec une excellente cultutre du résultat grâce à sa grande efficacité et son aisance technique incroyable.Je le conseillerai les yeux fermés.",
+	},
 ];
 
 export const footer = {

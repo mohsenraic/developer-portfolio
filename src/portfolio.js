@@ -6,6 +6,10 @@ import eleclerclogo from "./assets/img/icons/common/eleclerclogo.png";
 import sncflogo from "./assets/img/icons/common/sncflogo.png";
 import saurlogo from "./assets/img/icons/common/saurlogo.png";
 import hakimProfile from "./assets/img/hakim.jpg";
+import cedricProfile from "./assets/img/cedric.jpg";
+import mohandProfile from "./assets/img/mohand.jpg";
+
+
 export const greetings = {
 	name: "Mohsen Raeisi",
 	title: "Je suis Mohsen Raeisi",
@@ -263,7 +267,7 @@ export const feedbacks = [
 		from:"Linkedin",
 		url:"https://www.linkedin.com/in/mohsen-raeisi-55097813b/",
 		name: "Cédric Capo-Chichi - Proxy Product Owner chez SNCF",
-		img : hakimProfile,
+		img : cedricProfile,
 		feedback:
 			"J'ai travaillé une année avec Mohsen sur une application mobile pour Fret SNCF.Le projet était géré en Agile Scrum.J'ai apprécié la qualité de son travail, ses connaissances techniques et sa faculté à trouver des solutions. Par ailleurs, Mohsen a su faire preuve d'intérêt et d'implication en essayant toujours de comprendre la finalité fonctionnelle de ce qui lui était demandé. Et ce, toujours dans le but de rendre le meilleur service possible pour l'utilisateur.Fiable, posé et rassurant, Mohsen a été un élément moteur dans la réussite du projet.Je le reprendrais sans aucune hésitation sur un prochain projet.",
 	},
@@ -273,7 +277,7 @@ export const feedbacks = [
 		from:"Linkedin",
 		url:"https://www.linkedin.com/in/mohsen-raeisi-55097813b/",
 		name: "Mohand Ferhi - CTO / Responsable Département R&D Groupe chez iQera",
-		img : hakimProfile,
+		img : mohandProfile,
 		feedback:
 			"Mohsen c'est simplement un génie du développement web et mobile.C'est le type de développeurs que je qualifierai de vrai full stack sur les technologies mobiles et Java Web + design.Soucieux du travail bien fait avec une excellente cultutre du résultat grâce à sa grande efficacité et son aisance technique incroyable.Je le conseillerai les yeux fermés.",
 	},

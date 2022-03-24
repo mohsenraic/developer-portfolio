@@ -284,6 +284,6 @@ export const feedbacks = [
 ];
 
 export const footer = {
-	title:"Contactez moi",
+	title:"Contactez-moi",
 	desc: "J\'ai hâte de découvrir vos projets quel que soit votre secteur d\'activité, afin que l'on définisse ensemble vos besoins.\nAu plaisir d\'échanger avec vous sur vos projets respectifs, je vous dis à très vite 😉",
 };

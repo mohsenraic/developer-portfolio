@@ -29,7 +29,7 @@ const ExperienceCard = ({data}) => {
 
     return ( 
         
-        <Fade left duration={1000} distance="40px">
+        <Fade left duration={1000}>
             <Card style={{flex: 1}} className="shadow-lg--hover shadow border-0 text-center rounded mb-5">
                 <CardHeader style={{background: rgb(colorArrays)}} >
                     <h5 className="text-white">{data.company}</h5>
@@ -51,6 +51,8 @@ const ExperienceCard = ({data}) => {
                         </ul>
                     </CardText>
                     <div>
+                        <img className=" bg-white mb-3 rounded-circle img-center img-fluid shadow-lg " src={data.screens} alt=""/>
+
                     </div>
                 </CardBody>
             </Card>

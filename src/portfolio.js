@@ -1,6 +1,7 @@
 import emoji from "react-easy-emoji";
 
 import sedonalogo from "./assets/img/icons/common/sedonalogo.png";
+import saurScreen from  "./assets/img/saurscreens.png";
 import iqeralogo from "./assets/img/icons/common/iquralogo.png";
 import eleclerclogo from "./assets/img/icons/common/eleclerclogo.png";
 import sncflogo from "./assets/img/icons/common/sncflogo.png";
@@ -153,6 +154,7 @@ export const experience = [
 		role: "Développeur React-Native & Vue.js (En prestation via CGI)",
 		company: "SAUR",
 		companylogo: saurlogo,
+		screens:saurScreen,
 		date: "Novembre 2020 – à ce jour",
 		desc: "Guyancourt, France",
 		descBullets: [

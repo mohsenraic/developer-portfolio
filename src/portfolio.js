@@ -2,6 +2,7 @@ import emoji from "react-easy-emoji";
 
 import sedonalogo from "./assets/img/icons/common/sedonalogo.png";
 import saurScreen from  "./assets/img/saurscreens.png";
+import digiDriveScreen from "./assets/img/screendigidrive.PNG";
 import iqeralogo from "./assets/img/icons/common/iquralogo.png";
 import eleclerclogo from "./assets/img/icons/common/eleclerclogo.png";
 import sncflogo from "./assets/img/icons/common/sncflogo.png";
@@ -170,6 +171,7 @@ export const experience = [
 		role: "Développeur Full-stack React-Native (En prestation via CGI)",
 		company: "Fret SNCF",
 		companylogo: sncflogo,
+		screens: digiDriveScreen,
 		date: "Novembre 2019 – Octobre 2020",
 		desc: "Clichy, France",
 		descBullets: [

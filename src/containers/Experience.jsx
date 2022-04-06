@@ -13,7 +13,6 @@ const Experience = () => {
     return ( 
         <section className="section section-lg">
             <Container>
-              <Fade left duration={1000} distance="40px">
               <div className="d-flex p-4">
                     <div>
                         <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-info">
@@ -31,7 +30,6 @@ const Experience = () => {
                         })
                     }
                 </div>
-              </Fade>
             </Container>
           </section>
      );

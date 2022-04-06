@@ -51,7 +51,7 @@ const ExperienceCard = ({data}) => {
                         </ul>
                     </CardText>
                     <div>
-                        <img className=" bg-white mb-3 rounded-circle img-center img-fluid shadow-lg " src={data.screens} alt=""/>
+                        <img className=" bg-white mb-3 img-center img-fluid shadow-lg " src={data.screens} alt=""/>
 
                     </div>
                 </CardBody>

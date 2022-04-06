@@ -2,6 +2,10 @@ import emoji from "react-easy-emoji";
 
 import sedonalogo from "./assets/img/icons/common/sedonalogo.png";
 import saurScreen from  "./assets/img/saurscreens.png";
+import digiDriveScreen from "./assets/img/screendigidrive.PNG";
+import dsoScreen from "./assets/img/dsoinsidescreens.png";
+
+
 import iqeralogo from "./assets/img/icons/common/iquralogo.png";
 import eleclerclogo from "./assets/img/icons/common/eleclerclogo.png";
 import sncflogo from "./assets/img/icons/common/sncflogo.png";
@@ -156,10 +160,11 @@ export const experience = [
 		companylogo: saurlogo,
 		screens:saurScreen,
 		date: "Novembre 2020 – à ce jour",
-		desc: "Guyancourt, France",
+		desc: "Maurepas, France",
 		descBullets: [
-			"Front : Développement et maintenance d’une application mobile/web de gestion logistique",
-			"Participation à des réunions Demo & retro et planification du sprint",
+			"Développement d'une application mobile from-sratch pour les agents de secteur permettant d'acceder aux informations essentielles des intallations.",
+			"Développement et maintenance d’une application mobile/web de gestion logistique",
+			"Participation à des réunions revue & retro et planification du sprint",
 			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
 			"Environnement Technique : React Native,Vue.js"
 			
@@ -169,12 +174,13 @@ export const experience = [
 		role: "Développeur Full-stack React-Native (En prestation via CGI)",
 		company: "Fret SNCF",
 		companylogo: sncflogo,
+		screens: digiDriveScreen,
 		date: "Novembre 2019 – Octobre 2020",
 		desc: "Clichy, France",
 		descBullets: [
 			"Front : Développement et maintenance d’une application tablette d’aide à la conduite.",
 			"Back : Développement et maintenance des web services REST en utilisant Spring.",
-			"Participation à des réunions Demo & retro et planification du sprint",
+			"Participation à des réunions revue & retro et planification du sprint",
 			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
 			"Environnement Technique : JAVA/J2EE(Spring),React Native,PostgreSQL"
 			
@@ -189,7 +195,7 @@ export const experience = [
 		descBullets: [
 			"Front : Développement et maintenance d'un outil web de gestion de contrats sous EmberJs",
 			"Back : Développement et maintenance des web services REST en utilisant Spring.",
-			"Participation à des réunions demo & retro et planification du sprint",
+			"Participation à des réunions revue & retro et planification du sprint",
 			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
 			"Environnement Technique : JAVA/J2EE(Spring),EmberJs,Git,PostgreSQL"
 			
@@ -200,6 +206,7 @@ export const experience = [
 		company: "iQera (DSOgroup)",
 		companylogo: iqeralogo,
 		date: "Septembre 2015 – Janvier 2019",
+		screens: dsoScreen,
 		desc: "Paris, France",
 		descBullets: [
 			"Réalisation d’une application mobile hybride en interne (front-end et back-end) en utilisant le Framework IONIC et Spring boot",

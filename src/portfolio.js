@@ -156,10 +156,11 @@ export const experience = [
 		companylogo: saurlogo,
 		screens:saurScreen,
 		date: "Novembre 2020 – à ce jour",
-		desc: "Guyancourt, France",
+		desc: "Maurepas, France",
 		descBullets: [
-			"Front : Développement et maintenance d’une application mobile/web de gestion logistique",
-			"Participation à des réunions Demo & retro et planification du sprint",
+			"Développement d'une application mobile from-sratch pour les agents de secteur permettant d'acceder aux informations essentielles des intallations.",
+			"Développement et maintenance d’une application mobile/web de gestion logistique",
+			"Participation à des réunions revue & retro et planification du sprint",
 			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
 			"Environnement Technique : React Native,Vue.js"
 			
@@ -174,7 +175,7 @@ export const experience = [
 		descBullets: [
 			"Front : Développement et maintenance d’une application tablette d’aide à la conduite.",
 			"Back : Développement et maintenance des web services REST en utilisant Spring.",
-			"Participation à des réunions Demo & retro et planification du sprint",
+			"Participation à des réunions revue & retro et planification du sprint",
 			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
 			"Environnement Technique : JAVA/J2EE(Spring),React Native,PostgreSQL"
 			
@@ -189,7 +190,7 @@ export const experience = [
 		descBullets: [
 			"Front : Développement et maintenance d'un outil web de gestion de contrats sous EmberJs",
 			"Back : Développement et maintenance des web services REST en utilisant Spring.",
-			"Participation à des réunions demo & retro et planification du sprint",
+			"Participation à des réunions revue & retro et planification du sprint",
 			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
 			"Environnement Technique : JAVA/J2EE(Spring),EmberJs,Git,PostgreSQL"
 			

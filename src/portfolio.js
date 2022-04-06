@@ -3,6 +3,9 @@ import emoji from "react-easy-emoji";
 import sedonalogo from "./assets/img/icons/common/sedonalogo.png";
 import saurScreen from  "./assets/img/saurscreens.png";
 import digiDriveScreen from "./assets/img/screendigidrive.PNG";
+import dsoScreen from "./assets/img/dsoinsidescreens.png";
+
+
 import iqeralogo from "./assets/img/icons/common/iquralogo.png";
 import eleclerclogo from "./assets/img/icons/common/eleclerclogo.png";
 import sncflogo from "./assets/img/icons/common/sncflogo.png";
@@ -203,6 +206,7 @@ export const experience = [
 		company: "iQera (DSOgroup)",
 		companylogo: iqeralogo,
 		date: "Septembre 2015 – Janvier 2019",
+		screens: dsoScreen,
 		desc: "Paris, France",
 		descBullets: [
 			"Réalisation d’une application mobile hybride en interne (front-end et back-end) en utilisant le Framework IONIC et Spring boot",

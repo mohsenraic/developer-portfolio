@@ -19,7 +19,7 @@ export const greetings = {
 	name: "Mohsen Raeisi",
 	title: "Je suis Mohsen Raeisi",
 	description:
-		"Développeur React Native et Vue.js fullstack ",
+		"Développeur React/React Native et Vue.js",
 	resumeLink: "https://github.com/mohsenraic/developer-portfolio/raw/master/cvmohsen.pdf",
 };
 
@@ -38,18 +38,18 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "À propos de moi",
 	subTitle:
-		"Passionné par le développement digital, je souhaite vous aider à concrétiser vos projets numériques tout en développant mes compétences. Je suis impatient de découvrir vos projets, que ce soit pour créer une application mobile React Native et/ou un site web 🙂\n J\'ai déjà eu  l\'opportunité de travailler pour plusieurs entreprises comme iQERA, E.Leclerc, SNCF et SAUR en tant que developpeur fullstack mobile et web.J\'ai développé mes compétences afin d\'être Fullstack sur des projets mobile ou web.",
+"Passionné par le développement digital, je mets mes compétences à votre service pour donner vie à vos projets numériques tout en continuant à me perfectionner. Que ce soit pour la création d'une application mobile avec React Native ou d'un site web, je serais ravi d'échanger avec vous 🙂.\n Fort d'expériences chez iQERA, E.Leclerc, SNCF et SAUR en tant que développeur fullstack mobile et web, j'ai affiné mon expertise pour intervenir sur l'ensemble des aspects techniques de vos projets, qu'ils soient web ou mobiles.",
 	skills: [
-		emoji(
-			"📱 Côté mobile, je développe des applications mobiles avec le framework React Native, qui permet de coder simultanément sur IOS et sur Android, ce qui vous permet de gagner beaucoup de temps et donc d\'argent lors du développement."
-		),
-		emoji(
-			"🖥 Côté web, je développe des sites web complets à partir des langages HTML5/CSS3/Javascript ou des frameworks ReactJS et Vue.js pour le front-end. Je peux également concevoir vos sites via le CMS Wordpress."
-		),
-		emoji(
-			"📡 Côté serveur, je développe le back-end avec le langage JAVA et le framework Spring ou en utilisant NodeJS et Express. Je maîtrise MySQL pour la gestion des bases de données."
-		),
-	],
+    emoji(
+        "📱 Développement mobile : Création d'applications mobiles avec React Native, un framework permettant un développement simultané sur iOS et Android, optimisant ainsi le temps et les coûts."
+    ),
+    emoji(
+        "🖥 Développement web : Conception de sites web complets en HTML5, CSS3 et JavaScript, ainsi qu'avec les frameworks React.js et Vue.js pour le front-end. Possibilité de création de sites via le CMS WordPress."
+    ),
+    emoji(
+        "📡 Développement serveur : Développement back-end avec Firebase ou Node.js et Express, en fonction des besoins du projet."
+    ),
+],
 
 	softwareSkills: [
 		{
@@ -121,7 +121,7 @@ export const SkillBars = [
 		progressPercentage: "70", //Insert relative proficiency in percentage
 	},
 	{
-		Stack: "JAVA/Spring",
+		Stack: "Firebase",
 		progressPercentage: "70",
 	},
 	{
@@ -145,7 +145,7 @@ export const educationInfo = [
 	},
 	{
 		schoolName: "Université Paris 8",
-		subHeader: "Licence Professionelle - développement logiciel embarqué",
+		subHeader: "Licence Professionnelle - développement logiciel embarqué",
 		duration: "September 2012 - April 2015",
 		desc: "",
 		descBullets: [
@@ -155,18 +155,18 @@ export const educationInfo = [
 
 export const experience = [
 	{
-		role: "Développeur React-Native & Vue.js (En prestation via CGI)",
+		role: "Développeur React-Native & Vue.js",
 		company: "SAUR",
 		companylogo: saurlogo,
 		screens:saurScreen,
 		date: "Novembre 2020 – à ce jour",
 		desc: "Maurepas, France",
 		descBullets: [
-			"Développement d'une application mobile from-sratch pour les agents de secteur permettant d'acceder aux informations essentielles des intallations.",
+			"Développement d'une application mobile from-sratch pour les agents de secteur permettant d'accéder aux informations essentielles des installations.",
 			"Développement et maintenance d’une application mobile/web de gestion logistique",
-			"Participation à des réunions revue & retro et planification du sprint",
+			"Participation à des réunions de revue et rétrospective et planification du sprint",
 			"Analyse et chiffrage des nouvelles fonctionnalités et des correctifs",
-			"Environnement Technique : React Native,Vue.js"
+			"Environnement Technique : React/React Native,Vue.js"
 			
 		],
 	},
@@ -270,7 +270,7 @@ export const feedbacks = [
 		name: "Hakim Benyoucef - Développeur freelance Full Stack",
 		img : hakimProfile,
 		feedback:
-			"Mohsen est un brillant développeur.J'ai travaillé avec lui sur un grand projet et j'ai pu admirer son talent dans le développement mobile, sa motivation, sa méticulosité et surtout sa curiosité constante, aussi bien sur des points de développement que sur des sujets hors de son périmètre.Il sait très bien chercher et trouver l'information et faire avancer votre projet dans les règles de l'art.Je l'ai vu apprendre un framework depuis le zero et je peux vous dire qu'il a maitrisé à merveille en moins d'un an! Ses capacités d'apprendre très vite et d'autonomie font de lui un vrai \"couteau suisse\".",
+			"Mohsen est un brillant développeur.J'ai travaillé avec lui sur un grand projet et j'ai pu admirer son talent dans le développement mobile, sa motivation, sa méticulosité et surtout sa curiosité constante, aussi bien sur des points de développement que sur des sujets hors de son périmètre.Il sait très bien chercher et trouver l'information et faire avancer votre projet dans les règles de l'art.Je l'ai vu apprendre un framework depuis le zero et je peux vous dire qu'il a maîtrisé à merveille en moins d'un an! Ses capacités d'apprendre très vite et d'autonomie font de lui un vrai \"couteau suisse\".",
 	},
 	{
 		from:"Linkedin",
@@ -288,7 +288,7 @@ export const feedbacks = [
 		name: "Mohand Ferhi - CTO / Responsable Département R&D Groupe chez iQera",
 		img : mohandProfile,
 		feedback:
-			"Mohsen c'est simplement un génie du développement web et mobile.C'est le type de développeurs que je qualifierai de vrai full stack sur les technologies mobiles et Java Web + design.Soucieux du travail bien fait avec une excellente cultutre du résultat grâce à sa grande efficacité et son aisance technique incroyable.Je le conseillerai les yeux fermés.",
+			"Mohsen c'est simplement un génie du développement web et mobile.C'est le type de développeurs que je qualifierai de vrai full stack sur les technologies mobiles et Java Web + design.Soucieux du travail bien fait avec une excellente culture du résultat grâce à sa grande efficacité et son aisance technique incroyable.Je le recommande les yeux fermés.",
 	},
 ];
 
